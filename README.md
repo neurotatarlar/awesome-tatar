@@ -2,7 +2,7 @@
 	<img width="540" height="540" src="media/logo.jpg" alt="Awesome Tatar">
 </div>
 
-# Awesome tatar
+# Awesome Tatar
 [![en](https://img.shields.io/badge/lang-tt--cy-darkgreen.svg)](README.tt-cy.md)
 
 # About
@@ -21,7 +21,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 ## Parallel corpora datasets
 * [IPSAN's dataset](https://huggingface.co/datasets/IPSAN/tatar-russian-parallel-corpora) - Dataset collected by [IPSAN](https://www.antat.ru/tt/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected by language enthusiast Aygiz Kunafin. 
-* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) - Open dataset of parallel corpora (⚠ data requires cleaning).
+* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) - Open dataset of parallel corpora (⚠ it requires data cleaning and preparation).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) - an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian. 
 
 ## Audio datasets
@@ -39,7 +39,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [speech.tatar](https://speech.tatar/) - Read aloud service powered by [IPSAN](https://www.antat.ru/tt/).
 * [Silero Models](https://github.com/snakers4/silero-models?tab=readme-ov-file#cyrillic-languages) - Pre-trained STT / TTS models with tatar language support. Minimal working example can be found [here](https://colab.research.google.com/drive/1hsn_Liy19eu17mb9qEQhM2GMEBxzcAP-#scrollTo=7b9e704a).
 * [Massively Multilingual Speech](https://huggingface.co/spaces/mms-meta/MMS) - Open-source STT / TTS initiative for thousands of languages.
-* [TurkicTTS](https://github.com/IS2AI/TurkicTTS) - A multilingual text-to-speech synthesis system for 10 turkish languages 
+* [TurkicTTS](https://github.com/IS2AI/TurkicTTS) - A multilingual text-to-speech synthesis system for 10 turkic languages 
 * [RHVoice](https://github.com/RHVoice/RHVoice) - A free and open source speech synthesizer with tatar language support
 
 ## Language corpora
