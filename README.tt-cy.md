@@ -53,7 +53,7 @@
 ## Ихтияри тәрҗемә проектлары
 * [LibreOffice](https://translations.documentfoundation.org/languages/tt/) - Түләүсез һәм ачык чыганаклы [LibreOffice](https://www.libreoffice.org/) миллиләштерү.
 * [Mozilla Firefox](https://pontoon.mozilla.org/tt/) - Түләүсез һәм ачык чыганаклы [Mozilla Firefox](https://www.mozilla.org/) миллиләштерү.
-* [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - танылган [Minecraft](https://www.minecraft.net) уенын миллиләштерү.
+* [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - танылган Minecraft уенын миллиләштерү.
 * [Mastodon](https://crowdin.com/project/mastodon/tt-RU) - Түләүсез һәм ачык чыганаклы [Mastodon](https://joinmastodon.org/) ([чыганак](https://github.com/mastodon)) социаль челтәрен миллиләштерү.
 * [Warzone 2100](https://crowdin.com/project/warzone2100/tt-RU) - [Warzone 2100](https://wz2100.net/)([чыганак](https://github.com/Warzone2100/warzone2100)) RTS-уенын миллиләштерү.
 * [Steam](https://github.com/Amirhan-Taipovjan-Greatest-I/unofficial-tatar-steam-translations) - Рәсми булмаган Steam кушымтасын миллиләштерү.
