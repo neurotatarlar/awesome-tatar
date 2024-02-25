@@ -2,7 +2,7 @@
 Simple script to check URLs availability.
 
 This script parses README file, collects all URLs, checks their availability and writes down unavailable ones.
-Unavailability means status code of the request was not 200.
+Unavailability means status code of the response was not 200.
 """
 
 import mistletoe
