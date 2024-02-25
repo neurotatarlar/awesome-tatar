@@ -1,0 +1,43 @@
+# Job to run links availability checker script
+
+name: Run links availability checker
+
+on:
+  schedule:
+    - cron: '52 15 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install -r links-health-checker/requirements.txt
+      - name: Call script
+        run: python links-health-checker/main.py
+      - name: Prepare creds
+        run: |
+          git config user.email "no-reply@github.com"
+          git config user.name "Broken links checker bot"
+      - name: Delete branch if there are no broken links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          test -f broken-links.txt || 
+          git push origin -d broken-links ||
+          exit 0
+      - name: Create commit and push if there are broken links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          test -f broken-links.txt || exit 0
+          git branch -f broken-links && 
+          git checkout broken-links && 
+          git add broken-links.txt && 
+          git commit -m "Found broken links" && 
+          git push -f origin broken-links && 
+          echo "Found broken links" &&
+          exit 1
