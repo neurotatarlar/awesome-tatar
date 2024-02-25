@@ -1,0 +1,38 @@
+name: Run Script
+
+#on:
+#  schedule:
+#    - cron:  '52 15 * * *'
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install -r links-health-checker/requirements.txt
+      - name: Call script
+        run: python links-health-checker/main.py
+      - name: Create commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          test -f broken-links.txt || (echo "No broken links found" && exit 0)
+          git branch -f broken-links && 
+          git checkout broken-links && 
+          git add broken-links.txt && 
+          git config user.email "no-reply@github.com"
+          git config user.name "Broken links checker bot"
+          git commit -m "Found broken links" && 
+          git push -f origin broken-links
+      - name: Create pull request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create  --title 'Found broken links' --body 'Found broken links:$(echo -e "\n")$(cat broken-links.txt) )'
+

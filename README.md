@@ -53,7 +53,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 ## Volunteer localization projects
 * [LibreOffice](https://translations.documentfoundation.org/languages/tt/) - Localization of free and open-source [LibreOffice](https://www.libreoffice.org/).
 * [Mozilla Firefox](https://pontoon.mozilla.org/tt/) - Localization of free and open-source [Mozilla Firefox](https://www.mozilla.org/).
-* [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - Localization of legendary [Minecraft](https://www.minecraft.net).
+* [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - Localization of legendary Minecraft.
 * [Mastodon](https://crowdin.com/project/mastodon/tt-RU) - Localization of free and open-source social network [Mastodon](https://joinmastodon.org/) ([source](https://github.com/mastodon)).
 * [Warzone 2100](https://crowdin.com/project/warzone2100/tt-RU) - Localization of real-time strategy game [Warzone 2100](https://wz2100.net/)([source](https://github.com/Warzone2100/warzone2100)).
-* [Steam](https://github.com/Amirhan-Taipovjan-Greatest-I/unofficial-tatar-steam-translations) - Unofficial localization of Steam.
+* [Steam](https://github.com/Amirhan-Taipovjan-Greatest-I/unofficial-tatar-steam-translationsRRR) - Unofficial localization of Steam.
