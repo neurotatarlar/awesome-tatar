@@ -25,7 +25,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 ## Parallel corpora datasets
 
-* [IPSAN's dataset](https://huggingface.co/datasets/IPSAN/tatar-russian-parallel-corpora) - Dataset collected
+* [IPSAN's dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected
   by language enthusiast Aygiz Kunafin.
@@ -39,8 +39,6 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - Open voice dataset powered by volunteer
   contributors.
-* [Almaz](https://huggingface.co/datasets/IPSAN/tt-speech-almaz) & [Alsu](https://huggingface.co/datasets/IPSAN/tt-speech-alsu) -
-  mail and female voice dataset collected by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 
 ## Ready to use language models
 

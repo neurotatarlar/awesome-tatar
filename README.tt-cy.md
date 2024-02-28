@@ -25,7 +25,7 @@
 
 ## Параллель текстлар җыелмалары
 
-* [ИПСАН дата җыентыгы](https://huggingface.co/datasets/IPSAN/tatar-russian-parallel-corpora) - [ИПСАН](https://www.antat.ru/tt/)
+* [ИПСАН дата җыентыгы](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/)
   туплаган дата җыентыгы.
 * [Айгиз Кунафин дата җыентыгы](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты
   Айгиз Кунафин туплаган дата җыентыгы.
@@ -38,8 +38,6 @@
 ## Аудио дата җыелмалары
 
 * [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
-* [Алмаз](https://huggingface.co/datasets/IPSAN/tt-speech-almaz) & [Алсу](https://huggingface.co/datasets/IPSAN/tt-speech-alsu) - [ИПСАН](https://www.antat.ru/tt/)
-  туплаган ир-ат һәм хатын-кыз тавыш җыелмасы.
 
 ## Куллануга әзер тел модельләре
 
