@@ -13,6 +13,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 **Table of Contents**
 
 - [Parallel corpora datasets](#parallel-corpora-datasets)
+- [Monocorpora datasets](#monocorpora-datasets)
 - [Audio datasets](#audio-datasets)
 - [Ready to use language models](#ready-to-use-language-models)
 - [Other datasets](#other-datasets)
@@ -22,10 +23,12 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 - [Language analyzers](#language-analyzers)
 - [Volunteer localization projects](#volunteer-localization-projects)
 - [Localization guides](#localization-guides)
+- [Browser's plugins](#browsers-plugins)
 
 ## Parallel corpora datasets
 
-* [IPSAN's dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset collected
+* [IPSAN's parallel corpora dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset
+  collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected
   by language enthusiast Aygiz Kunafin.
@@ -34,6 +37,11 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   Open dataset of parallel corpora (⚠ it requires data cleaning and preparation).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) -
   an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian.
+
+## Monocorpora datasets
+
+* [IPSAN's monocorpora dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
+  by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 
 ## Audio datasets
 
@@ -53,6 +61,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [baltoslav.eu](https://baltoslav.eu/lat/index.php)
 * [speak.tatar](https://speak.tatar/en/lang/converter/tat/latin/cyrillic/)
 * [yusuke1997.com](https://yusuke1997.com/tatar) ([source](https://github.com/yusuke1997/translit_tt))
+* [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
 ## Text-to-speech & speech-to-text
 
@@ -98,3 +107,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   Official localization style gide used by Microsoft.
 * [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) -
   Official translations used in Microsoft's products.
+
+## Browser's plugins
+
+* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - real-time YouTube video translation to tatar.
