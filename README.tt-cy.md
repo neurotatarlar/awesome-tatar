@@ -25,7 +25,7 @@
 
 ## Параллель текстлар җыелмалары
 
-* [ИПСАН дата җыентыгы](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/)
+* [ИПСАН параллель корпус дата җыентыгы](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/)
   туплаган дата җыентыгы.
 * [Айгиз Кунафин дата җыентыгы](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты
   Айгиз Кунафин туплаган дата җыентыгы.
@@ -34,6 +34,11 @@
   Ачык параллель текстлар җыентыгы(⚠ тазартырга зарур).
 * [Apertium тел кушлары](https://github.com/apertium/apertium-tat-rus) - [Apertium](https://www.apertium.org/index.rus.html)
   проектының тәрҗемә өчен кулланган тел кушлары.
+
+## Monocorpora datasets
+
+* [ИПСАН монокорпус дата җыентыгы](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
+  туплаган дата җыентыгы.
 
 ## Аудио дата җыелмалары
 
@@ -52,6 +57,7 @@
 * [baltoslav.eu](https://baltoslav.eu/lat/index.php)
 * [speak.tatar](https://speak.tatar/en/lang/converter/tat/latin/cyrillic/)
 * [yusuke1997.com](https://yusuke1997.com/tatar) ([чыганак](https://github.com/yusuke1997/translit_tt))
+* [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
 ## Текстны тавышлау & тавышны текстлау
 
@@ -98,3 +104,7 @@
   Microsoft кулланган рәсми миллиләштерү әсбабы.
 * [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) -
   Microsoft продуктларында кулланган рәсми тәрҗемә.
+
+## Браузер плагиннары
+
+* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - реаль вакытта Youtube видеоларын татарчага тәрҗемә. 
