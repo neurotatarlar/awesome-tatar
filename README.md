@@ -12,36 +12,38 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 **Table of Contents**
 
-- [Parallel corpora datasets](#parallel-corpora-datasets)
-- [Monocorpora datasets](#monocorpora-datasets)
+- [Parallel corpus datasets](#parallel-corpus-datasets)
+- [Monocorpus datasets](#monocorpus-datasets)
 - [Audio datasets](#audio-datasets)
 - [Ready to use language models](#ready-to-use-language-models)
 - [Other datasets](#other-datasets)
 - [Cyrill-latin convertors](#cyrill-latin-convertors)
 - [Text-to-speech & speech-to-text](#text-to-speech--speech-to-text)
-- [Language corpora](#language-corpora)
+- [Language corpus](#language-corpus)
 - [Language analyzers](#language-analyzers)
 - [Volunteer localization projects](#volunteer-localization-projects)
 - [Localization guides](#localization-guides)
 - [Browser's plugins](#browsers-plugins)
 
-## Parallel corpora datasets
+## Parallel corpus datasets
 
-* [IPSAN's parallel corpora dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset
+* [IPSAN's parallel corpus dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset
   collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected
   by language enthusiast Aygiz Kunafin.
 * The Open Parallel
   Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) -
-  Open dataset of parallel corpora (⚠ it requires data cleaning and preparation).
+  Open dataset of parallel corpus (⚠ it requires data cleaning and preparation).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) -
   an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian.
 
-## Monocorpora datasets
+## Monocorpus datasets
 
-* [IPSAN's monocorpora dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
+* [IPSAN's monocorpus dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
+* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset of [The University of Oregon ](http://nlp.uoregon.edu/).
+
 
 ## Audio datasets
 
@@ -76,7 +78,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   languages.
 * [RHVoice](https://github.com/RHVoice/RHVoice) - A free and open source speech synthesizer with tatar language support.
 
-## Language corpora
+## Language corpus
 
 * [search.corpus.tatar](https://search.corpus.tatar/index.php?of=search/search.php)
 * [tugantel.tatar](https://tugantel.tatar/?lang=tt)

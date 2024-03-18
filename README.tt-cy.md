@@ -41,6 +41,7 @@
 
 * [ИПСАН монокорпус дата җыентыгы](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
   туплаган дата җыентыгы.
+* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/) туплаган күптелле датасет.
 
 ## Аудио дата җыелмалары
 
