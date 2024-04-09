@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r links-health-checker/requirements.txt
       - name: Call script
-        run: python links-health-checker/main.py
+        run: python .github/links-health-checker/main.py
       - name: Prepare creds
         run: |
           git config user.email "no-reply@github.com"
