@@ -12,6 +12,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 **Table of Contents**
 
+- [LLMs](#llms)
 - [Parallel corpus datasets](#parallel-corpus-datasets)
 - [Monocorpus datasets](#monocorpus-datasets)
 - [Audio datasets](#audio-datasets)
@@ -24,6 +25,9 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 - [Volunteer localization projects](#volunteer-localization-projects)
 - [Localization guides](#localization-guides)
 - [Browser's plugins](#browsers-plugins)
+
+## LLMs
+* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - LLM for the Tatar language, converted from the Mistral-7B-Instruct-v0.2 model trained by MistralAI
 
 ## Parallel corpus datasets
 
@@ -43,6 +47,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [IPSAN's monocorpus dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset of [The University of Oregon ](http://nlp.uoregon.edu/).
+* [Neurotatarlar's dataset](https://huggingface.co/neurotatarlar) - Our dataset includes processed books and documents crawled from the internet.
 
 
 ## Audio datasets

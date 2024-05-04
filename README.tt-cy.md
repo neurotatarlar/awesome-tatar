@@ -12,6 +12,7 @@
 
 **Эчтәлек**
 
+- [LLM-нар](#llm-нар)
 - [Параллель текстлар җыелмалары](#параллель-текстлар-җыелмалары)
 - [Монокорпуслар җыелмалары](#монокорпуслар-җыелмалары)
 - [Аудио дата җыелмалары](#аудио-дата-җыелмалары)
@@ -25,12 +26,15 @@
 - [Миллиләштерү әсбаплары](#миллиләштерү-әсбаплары)
 - [Браузер плагиннары](#браузер-плагиннары)
 
+## LLM-нар
+* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) -  Mistral-7B-Instruct-v0.2 моделленнан MistralAI белән өйрәтелгән татар телле LLM
+
 ## Параллель текстлар җыелмалары
 
-* [ИПСАН параллель корпус дата җыентыгы](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/)
-  туплаган дата җыентыгы.
-* [Айгиз Кунафин дата җыентыгы](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты
-  Айгиз Кунафин туплаган дата җыентыгы.
+* [ИПСАН параллель корпус дәйтәсары](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/)
+  туплаган дәйтәсары.
+* [Айгиз Кунафин дәйтәсары](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты
+  Айгиз Кунафин туплаган дәйтәсар.
 * The Open Parallel
   Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) -
   Ачык параллель текстлар җыентыгы(⚠ тазартырга зарур).
@@ -39,9 +43,10 @@
 
 ## Монокорпуслар җыелмалары
 
-* [ИПСАН монокорпус дата җыентыгы](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
-  туплаган дата җыентыгы.
-* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/) туплаган күптелле датасет.
+* [ИПСАН монокорпус дәйтәсары](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
+  туплаган дәйтәсар.
+* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/) туплаган күптелле дәйтәсар.
+* [Neurotatarlar дәйтасары](https://huggingface.co/neurotatarlar) - Без эшкәрткән китаплар һәм чыгарылган документллар дәйтасары.
 
 ## Аудио дата җыелмалары
 
