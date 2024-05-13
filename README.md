@@ -48,7 +48,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset of [The University of Oregon ](http://nlp.uoregon.edu/).
 * [Neurotatarlar's dataset](https://huggingface.co/neurotatarlar) - Our dataset includes processed books and documents crawled from the internet.
-
+* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - Dataset of documents crawled from the [Azatliq](https://www.azatliq.org/) website.
 
 ## Audio datasets
 
