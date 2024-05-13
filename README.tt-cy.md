@@ -47,6 +47,7 @@
   туплаган дәйтәсар.
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/) туплаган күптелле дәйтәсар.
 * [Neurotatarlar дәйтасары](https://huggingface.co/neurotatarlar) - Без эшкәрткән китаплар һәм чыгарылган документллар дәйтасары.
+* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - [Azatliq](https://www.azatliq.org/) сайтыннан чыгарылган документллар дәйтасары.
 
 ## Аудио дата җыелмалары
 
