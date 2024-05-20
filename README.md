@@ -27,7 +27,9 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 - [Browser's plugins](#browsers-plugins)
 
 ## LLMs
-* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - LLM for the Tatar language, converted from the Mistral-7B-Instruct-v0.2 model trained by MistralAI
+
+* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - LLM for the Tatar language,
+  converted from the Mistral-7B-Instruct-v0.2 model trained by MistralAI
 
 ## Parallel corpus datasets
 
@@ -46,9 +48,12 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [IPSAN's monocorpus dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
-* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset of [The University of Oregon ](http://nlp.uoregon.edu/).
-* [Neurotatarlar's dataset](https://huggingface.co/neurotatarlar) - Our dataset includes processed books and documents crawled from the internet.
-* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - Dataset of documents crawled from the [Azatliq](https://www.azatliq.org/) website.
+* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset
+  of [The University of Oregon ](http://nlp.uoregon.edu/).
+* [Neurotatarlar's dataset](https://huggingface.co/neurotatarlar) - Our dataset includes processed books and documents
+  crawled from the internet.
+* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - Dataset of
+  documents crawled from the [Azatliq](https://www.azatliq.org/) website.
 
 ## Audio datasets
 
@@ -74,6 +79,11 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [speech.tatar](https://speech.tatar/) - Read aloud service powered
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
+* [Tatsoft ASR](https://tat-asr.api.translate.tatar/docs) - API for automatic speech recognition system for Tatar
+  language provided by Tatsoft.
+* [Tatsoft TTS](https://tat-tts.api.translate.tatar/docs) - API for text-to-speech synthesis system for Tatar language
+  provided by Tatsoft.
+* [TatarSCR](https://github.com/IS2AI/TatarSCR) - An open-source Tatar Speech Commands Dataset
 * [Silero Models](https://github.com/snakers4/silero-models?tab=readme-ov-file#cyrillic-languages) - Pre-trained STT /
   TTS models with tatar language support. Minimal working example can be
   found [here](https://colab.research.google.com/drive/1hsn_Liy19eu17mb9qEQhM2GMEBxzcAP-#scrollTo=7b9e704a).
@@ -92,6 +102,8 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 ## Language analyzers
 
 * [Apertium's language analyzer](https://github.com/apertium/apertium-tat)
+* Turkic Morpheme [portal](http://modmorph.turklang.net/tt/) and [API](http://modmorph.turklang.net/api/?language=16) -
+  Morphological analyzer for Turkic languages, including Tatar.
 
 ## Volunteer localization projects
 

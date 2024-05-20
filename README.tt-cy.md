@@ -27,7 +27,9 @@
 - [Браузер плагиннары](#браузер-плагиннары)
 
 ## LLM-нар
-* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) -  Mistral-7B-Instruct-v0.2 моделленнан MistralAI белән өйрәтелгән татар телле LLM
+
+* [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - Mistral-7B-Instruct-v0.2
+  моделленнан MistralAI белән өйрәтелгән татар телле LLM
 
 ## Параллель текстлар җыелмалары
 
@@ -45,9 +47,12 @@
 
 * [ИПСАН монокорпус дәйтәсары](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
   туплаган дәйтәсар.
-* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/) туплаган күптелле дәйтәсар.
-* [Neurotatarlar дәйтасары](https://huggingface.co/neurotatarlar) - Без эшкәрткән китаплар һәм чыгарылган документллар дәйтасары.
-* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - [Azatliq](https://www.azatliq.org/) сайтыннан чыгарылган документллар дәйтасары.
+* [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/)
+  туплаган күптелле дәйтәсар.
+* [Neurotatarlar дәйтасары](https://huggingface.co/neurotatarlar) - Без эшкәрткән китаплар һәм чыгарылган документллар
+  дәйтасары.
+* [Azatliq's crawled document](https://huggingface.co/datasets/veryrealtatarperson/tt-azatliq-crawl) - [Azatliq](https://www.azatliq.org/)
+  сайтыннан чыгарылган документллар дәйтасары.
 
 ## Аудио дата җыелмалары
 
@@ -71,6 +76,9 @@
 ## Текстны тавышлау & тавышны текстлау
 
 * [speech.tatar](https://speech.tatar/) - [ИПСАН](https://www.antat.ru/tt/) ясаган тавышлау хезмәте.
+* [Tatsoft ASR](https://tat-asr.api.translate.tatar/docs) - Tatsoft-ның тавышны текстка таныту өчен API.
+* [Tatsoft TTS](https://tat-tts.api.translate.tatar/docs) - Tatsoft-ның текстны тавышлау өчен API.
+* [TatarSCR](https://github.com/IS2AI/TatarSCR) - Ачык чыганаклы татарча боерыклар дәйтәсары.
 * [Silero Models](https://github.com/snakers4/silero-models?tab=readme-ov-file#cyrillic-languages) - Татар телен таэмин
   итүче алдан өйрәтелгән STT / TTS модельләре. Минималь эшләүче
   урнәкне [монда](https://colab.research.google.com/drive/1hsn_Liy19eu17mb9qEQhM2GMEBxzcAP-#scrollTo=7b9e704a) табырга
@@ -90,6 +98,8 @@
 ## Тел анализаторлары
 
 * [Apertium's language analyzer](https://github.com/apertium/apertium-tat)
+* Turkic Morpheme [portal](http://modmorph.turklang.net/tt/) һәм [API](http://modmorph.turklang.net/api/?language=16) -
+  Гомумтөрки һәм фәкатъ Татар теле морфологик анализаторы.
 
 ## Ихтияри тәрҗемә проектлары
 
