@@ -45,8 +45,6 @@
 
 ## Монокорпуслар җыелмалары
 
-* [ИПСАН монокорпус дәйтәсары](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - [ИПСАН](https://www.antat.ru/tt/)
-  туплаган дәйтәсар.
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - [Орегон университеты](http://nlp.uoregon.edu/)
   туплаган күптелле дәйтәсар.
 * [Neurotatarlar дәйтасары](https://huggingface.co/neurotatarlar) - Без эшкәрткән китаплар һәм чыгарылган документллар

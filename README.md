@@ -46,8 +46,6 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 ## Monocorpus datasets
 
-* [IPSAN's monocorpus dataset](https://huggingface.co/datasets/IPSAN/corpus_of_the_tatar_language) - Dataset collected
-  by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset
   of [The University of Oregon ](http://nlp.uoregon.edu/).
 * [Neurotatarlar's dataset](https://huggingface.co/neurotatarlar) - Our dataset includes processed books and documents
