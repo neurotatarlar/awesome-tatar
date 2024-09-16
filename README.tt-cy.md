@@ -114,6 +114,8 @@
 * [Steam](https://github.com/Amirhan-Taipovjan-Greatest-I/unofficial-tatar-steam-translations) - Рәсми булмаган Steam
   кушымтасын миллиләштерү.
 * [Wikipedia](https://t.me/wugtat) - Wikipedia ихтияриларының берләшмәсе.
+* [Ubuntu](https://launchpad.net/~ubuntu-l10n-tt) - Ubuntu ОС-ны татар теленә миллиләштерү.
+* [LineageOS AOSP](https://crowdin.com/project/lineageos-aosp/tt-RU) - Android'ның AOSP тармагын миллиләштерү.
 
 ## Миллиләштерү әсбаплары
 

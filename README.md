@@ -117,6 +117,8 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [Steam](https://github.com/Amirhan-Taipovjan-Greatest-I/unofficial-tatar-steam-translations) - Unofficial localization
   of Steam.
 * [Wikipedia](https://t.me/wugtat) - Community of Wikipedia volunteers.
+* [Ubuntu](https://launchpad.net/~ubuntu-l10n-tt) - Localization of Ubuntu OS to Tatar language.
+* [LineageOS AOSP](https://crowdin.com/project/lineageos-aosp/tt-RU) - Localization of the biggest Android open source fork. 
 
 ## Localization guides
 
