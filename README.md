@@ -29,6 +29,9 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - LLM for the Tatar language,
   converted from the Mistral-7B-Instruct-v0.2 model trained by MistralAI
+* [mGPT-1.3B-tatar](https://huggingface.co/ai-forever/mGPT-1.3B-tatar) - The model derived from the base mGPT-XL (1.3B) model which was originally trained on the 61 languages from 25 language families using Wikipedia and C4 corpus by SberAI.
+
+
 
 ## Parallel corpora
 
