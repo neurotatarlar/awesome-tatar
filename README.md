@@ -56,6 +56,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - Open voice dataset powered by volunteer
   contributors.
+* [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI](https://issai.nu.edu.kz/issai-datasets/) dataset
 
 ## Other datasets
 
@@ -65,7 +66,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [baltoslav.eu](https://baltoslav.eu/lat/index.php)
 * [speak.tatar](https://speak.tatar/en/lang/converter/tat/latin/cyrillic/)
-* [yusuke1997.com](https://yusuke1997.com/tatar) ([source](https://github.com/yusuke1997/tatar_transliteration))
+* [yusuke1997.com](https://yusuke1997.com/tatar) - ([source1](https://github.com/yusuke1997/tatar_transliteration) and [source2](https://github.com/yusuke1997/translit_tt))
 * [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
 ## Text-to-speech & speech-to-text
