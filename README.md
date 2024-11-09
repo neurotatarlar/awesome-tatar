@@ -65,7 +65,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [baltoslav.eu](https://baltoslav.eu/lat/index.php)
 * [speak.tatar](https://speak.tatar/en/lang/converter/tat/latin/cyrillic/)
-* [yusuke1997.com](https://yusuke1997.com/tatar) ([source](https://github.com/yusuke1997/translit_tt))
+* [yusuke1997.com](https://yusuke1997.com/tatar) ([source](https://github.com/yusuke1997/tatar_transliteration))
 * [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
 ## Text-to-speech & speech-to-text
