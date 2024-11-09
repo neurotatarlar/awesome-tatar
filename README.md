@@ -13,10 +13,9 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 **Table of Contents**
 
 - [LLMs](#llms)
-- [Parallel corpus datasets](#parallel-corpus-datasets)
-- [Monocorpus datasets](#monocorpus-datasets)
+- [Parallel corpora](#parallel-corpora)
+- [Monocorpora](#monocorpora)
 - [Audio datasets](#audio-datasets)
-- [Ready to use language models](#ready-to-use-language-models)
 - [Other datasets](#other-datasets)
 - [Cyrill-latin convertors](#cyrill-latin-convertors)
 - [Text-to-speech & speech-to-text](#text-to-speech--speech-to-text)
@@ -31,7 +30,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - LLM for the Tatar language,
   converted from the Mistral-7B-Instruct-v0.2 model trained by MistralAI
 
-## Parallel corpus datasets
+## Parallel corpora
 
 * [IPSAN's parallel corpus dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset
   collected
@@ -40,11 +39,11 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   by language enthusiast Aygiz Kunafin.
 * The Open Parallel
   Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) -
-  Open dataset of parallel corpus (⚠ it requires data cleaning and preparation).
+  miscellaneous parallel corpora (⚠ it requires data cleaning and preparation).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) -
-  an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian.
+  an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian (in incubator), [Kazakh - Tatar pair](https://www.apertium.org/index.eng.html#?dir=tat-kaz&q=) (production).
 
-## Monocorpus datasets
+## Monocorpora
 
 * [uonlp/CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) - Multilanguage dataset
   of [The University of Oregon ](http://nlp.uoregon.edu/).
@@ -57,10 +56,6 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 * [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - Open voice dataset powered by volunteer
   contributors.
-
-## Ready to use language models
-
-* [MMS-1b-tatar](https://huggingface.co/AigizK/wav2vec2-large-mms-1b-tatar) - Fine-tuned ASR for tatar language.
 
 ## Other datasets
 
@@ -75,6 +70,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 ## Text-to-speech & speech-to-text
 
+* [MMS-1b-tatar](https://huggingface.co/AigizK/wav2vec2-large-mms-1b-tatar) - Fine-tuned ASR for tatar language.
 * [speech.tatar](https://speech.tatar/) - Read aloud service powered
   by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Tatsoft ASR](https://tat-asr.api.translate.tatar/docs) - API for automatic speech recognition system for Tatar
@@ -108,7 +104,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [LibreOffice](https://translations.documentfoundation.org/languages/tt/) - Localization of free and
   open-source [LibreOffice](https://www.libreoffice.org/).
 * [Mozilla Firefox](https://pontoon.mozilla.org/tt/) - Localization of free and
-  open-source [Mozilla Firefox](https://www.mozilla.org/).
+  open-source [Mozilla projects](https://www.mozilla.org/).
 * [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - Localization of legendary Minecraft.
 * [Mastodon](https://crowdin.com/project/mastodon/tt-RU) - Localization of free and open-source social
   network [Mastodon](https://joinmastodon.org/) ([source](https://github.com/mastodon)).
@@ -129,4 +125,4 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 ## Browser's plugins
 
-* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - real-time YouTube video translation to tatar.
+* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - real-time YouTube video translation to Tatar.
