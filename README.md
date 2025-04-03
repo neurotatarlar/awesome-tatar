@@ -57,13 +57,18 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 ## Audio datasets
 
-* [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - Open voice dataset powered by volunteer
+* [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - ASR dataset powered by volunteer
   contributors.
-* [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI](https://issai.nu.edu.kz/issai-datasets/) dataset
+* [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) ASR dataset
+* [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) TTS dataset
+* [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) Speech Commands Dataset dataset
 
-## Other datasets
+## Text datasets
 
 * [SART](https://github.com/tat-nlp/SART) - datasets of Similarity, Analogies, and Relatedness for Tatar language.
+* [TUMLU](https://github.com/ceferisbarov/TUMLU) - A Unified and Native Language Understanding Benchmark for Turkic Languages.
+* [TextDetox](https://huggingface.co/datasets/textdetox/multilingual_toxicity_dataset) - Multilingual Toxicity Detection Dataset.
+* [BRIGHTER](https://huggingface.co/datasets/brighter-dataset/BRIGHTER-emotion-categories) - BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages.
 
 ## Cyrill-latin convertors
 
@@ -72,7 +77,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [yusuke1997.com](https://yusuke1997.com/tatar) - ([source1](https://github.com/yusuke1997/tatar_transliteration) and [source2](https://github.com/yusuke1997/translit_tt))
 * [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
-## Text-to-speech & speech-to-text
+## Text-to-speech & speech-to-text models
 
 * [MMS-1b-tatar](https://huggingface.co/AigizK/wav2vec2-large-mms-1b-tatar) - Fine-tuned ASR for tatar language.
 * [speech.tatar](https://speech.tatar/) - Read aloud service powered
