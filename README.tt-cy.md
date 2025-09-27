@@ -87,7 +87,6 @@
 
 
 ## Ихтияри тәрҗемә проектлары
-* [LibreOffice](https://translations.documentfoundation.org/languages/tt/) - Түләүсез һәм ачык чыганаклы [LibreOffice](https://www.libreoffice.org/) миллиләштерү.
 * [Mozilla Firefox](https://pontoon.mozilla.org/tt/) - Түләүсез һәм ачык чыганаклы [Mozilla Firefox](https://www.mozilla.org/) миллиләштерү.
 * [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - Танылган Minecraft уенын миллиләштерү.
 * [Mastodon](https://crowdin.com/project/mastodon/tt-RU) - Түләүсез һәм ачык чыганаклы [Mastodon](https://joinmastodon.org/) ([чыганак](https://github.com/mastodon)) социаль челтәрен миллиләштерү.

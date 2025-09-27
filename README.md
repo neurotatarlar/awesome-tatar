@@ -87,7 +87,6 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 
 ## Volunteer localization projects
-* [LibreOffice](https://translations.documentfoundation.org/languages/tt/) - Localization of free and open-source [LibreOffice](https://www.libreoffice.org/).
 * [Mozilla Firefox](https://pontoon.mozilla.org/tt/) - Localization of free and open-source [Mozilla projects](https://www.mozilla.org/).
 * [Minecraft](https://crowdin.com/project/minecraft/tt-RU) - Localization of legendary Minecraft.
 * [Mastodon](https://crowdin.com/project/mastodon/tt-RU) - Localization of free and open-source social network [Mastodon](https://joinmastodon.org/) ([source](https://github.com/mastodon)).
