@@ -54,6 +54,7 @@
 *  [TUMLU](https://github.com/ceferisbarov/TUMLU) - Төрки телләр өчен бердәм һәм табигый телне аңлау бенчмаркы..
 * [TextDetox](https://huggingface.co/datasets/textdetox/multilingual_toxicity_dataset) - Татар телне аңлаучы күптелле токсиклык ачыклау дәйтәсары.
 * [BRIGHTER](https://huggingface.co/datasets/brighter-dataset/BRIGHTER-emotion-categories) - BRIGHTER Emotion Categories — 28 телдә кеше билгеләгән алты эмоцияне эченә алган күптелле дәйтәсар.
+* [UD_Tatar-NMCTT](https://github.com/UniversalDependencies/UD_Tatar-NMCTT) — Татар теле өчен Universal Dependencies синтаксик агач банкы. Леммалар, сүз төркемнәре, морфологик үзенчәлекләр һәм бәйләнешләр кулдан билгеләнгән. Шулай ук code-switching(татар ↔ рус) билгеләмәләре дә бар.
 
 
 ## Кирил-латин имлә конверторлары

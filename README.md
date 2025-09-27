@@ -54,6 +54,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [TUMLU](https://github.com/ceferisbarov/TUMLU) - A Unified and Native Language Understanding Benchmark for Turkic Languages.
 * [TextDetox](https://huggingface.co/datasets/textdetox/multilingual_toxicity_dataset) - Multilingual Toxicity Detection Dataset with Tatar lang support.
 * [BRIGHTER](https://huggingface.co/datasets/brighter-dataset/BRIGHTER-emotion-categories) - BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages.
+* [UD_Tatar-NMCTT](https://github.com/UniversalDependencies/UD_Tatar-NMCTT) — a Universal Dependencies syntactic treebank for Tatar. Manually annotated with lemmas, POS, morphological features, and dependency relations. Also includes intra-word code-switching annotation (Tatar ↔ Russian).
 
 
 ## Cyrill-latin convertors
