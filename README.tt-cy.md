@@ -43,7 +43,7 @@
 
 
 ## Аудио дәйтәсарлары
-* [Mozilla common voice](https://commonvoice.mozilla.org/tt/datasets) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
+* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmflnuzw7yl7y2xti7yu1j7cq) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) ASR дәйтәсар.
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) TTS дәйтәсар.
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) Тавыш боерыклары белән дәйтәсар.
