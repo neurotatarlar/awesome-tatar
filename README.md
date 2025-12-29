@@ -43,7 +43,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 
 ## Audio datasets
-* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmflnuzw7yl7y2xti7yu1j7cq) - ASR dataset powered by volunteer contributors.
+* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmj8u3pxt00shnxxbtpac4n4m) - ASR dataset powered by volunteer contributors.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) ASR dataset
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) TTS dataset
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) Speech Commands Dataset dataset
@@ -71,7 +71,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [Tatsoft TTS](https://tat-tts.api.translate.tatar/docs) - API for text-to-speech synthesis system for Tatar language provided by Tatsoft.
 * [TatarSCR](https://github.com/IS2AI/TatarSCR) - An open-source Tatar Speech Commands Dataset
 * [Silero Models](https://github.com/snakers4/silero-models?tab=readme-ov-file#cyrillic-languages) - Pre-trained STT/TTS models with tatar language support. Minimal working example can be found [here](https://colab.research.google.com/drive/1hsn_Liy19eu17mb9qEQhM2GMEBxzcAP-#scrollTo=7b9e704a).
-* [Massively Multilingual Speech](https://huggingface.co/spaces/mms-meta/MMS) - Open-source STT/TTS initiative for thousands of languages.
+* [Massively Multilingual Speech](https://huggingface.co/spaces/mms-meta/mms-zeroshot) - Open-source STT/TTS initiative for thousands of languages.
 * [TurkicTTS](https://github.com/IS2AI/TurkicTTS) - A multilingual text-to-speech synthesis system for 10 turkic languages.
 * [RHVoice](https://github.com/RHVoice/RHVoice) - A free and open source speech synthesizer with tatar language support.
 

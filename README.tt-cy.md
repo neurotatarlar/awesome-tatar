@@ -43,7 +43,7 @@
 
 
 ## Аудио дәйтәсарлары
-* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmflnuzw7yl7y2xti7yu1j7cq) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
+* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmj8u3pxt00shnxxbtpac4n4m) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) ASR дәйтәсар.
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) TTS дәйтәсар.
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) Тавыш боерыклары белән дәйтәсар.
@@ -71,7 +71,7 @@
 * [Tatsoft TTS](https://tat-tts.api.translate.tatar/docs) - Tatsoft'ның текстны тавышлау өчен API.
 * [TatarSCR](https://github.com/IS2AI/TatarSCR) - Ачык чыганаклы татарча боерыклар дәйтәсары.
 * [Silero Models](https://github.com/snakers4/silero-models?tab=readme-ov-file#cyrillic-languages) - Татар телен таэмин итүче алдан өйрәтелгән STT/TTS модельләре. Минималь эшләүче урнәкне [монда](https://colab.research.google.com/drive/1hsn_Liy19eu17mb9qEQhM2GMEBxzcAP-#scrollTo=7b9e704a) табырга була.
-* [Massively Multilingual Speech](https://huggingface.co/spaces/mms-meta/MMS) - Күптелле, ачык чыганаклы STT/TTS системасы.
+* [Massively Multilingual Speech](https://huggingface.co/spaces/mms-meta/mms-zeroshot) - Күптелле, ачык чыганаклы STT/TTS системасы.
 * [TurkicTTS](https://github.com/IS2AI/TurkicTTS) - Ун төрки телне таэмин итүче тавыш синтезы системасы.
 * [RHVoice](https://github.com/RHVoice/RHVoice) - Түләүсез, ачык чыганаклы, татар телен тәэмин итә торган тавыш синтезаторы.
 
