@@ -21,7 +21,6 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
   - [Language analyzers](#language-analyzers)
   - [Volunteer localization projects](#volunteer-localization-projects)
   - [Localization guides](#localization-guides)
-  - [Browser's plugins](#browsers-plugins)
 
 
 ## LLMs
@@ -32,7 +31,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 ## Parallel corpora
 * [IPSAN's parallel corpus dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset collected by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected by language enthusiast Aygiz Kunafin.
-* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) - miscellaneous parallel corpora (⚠ it requires data cleaning and preparation).
+* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/corpora-search/tt&en), [tt-ru](https://opus.nlpl.eu/corpora-search/tt&ru)) - miscellaneous parallel corpora (⚠ it requires data cleaning and preparation).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) - an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian (in incubator), [Kazakh - Tatar pair](https://www.apertium.org/index.eng.html#?dir=tat-kaz&q=) (production).
 
 
@@ -101,7 +100,3 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 ## Localization guides
 * [Tatar Style Guide](https://download.microsoft.com/download/4/8/2/4825b7b4-fda5-4f66-b475-0cc6a6b4e13f/tat-rus-styleguide.pdf) - Official localization style gide used by Microsoft.
 * [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Official translations used in Microsoft's products.
-
-
-## Browser's plugins
-* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - real-time YouTube video translation to Tatar.

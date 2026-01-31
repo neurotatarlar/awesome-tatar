@@ -21,7 +21,6 @@
   - [Тел анализаторлары](#тел-анализаторлары)
   - [Ихтияри тәрҗемә проектлары](#ихтияри-тәрҗемә-проектлары)
   - [Миллиләштерү әсбаплары](#миллиләштерү-әсбаплары)
-  - [Браузер плагиннары](#браузер-плагиннары)
 
 
 ## LLM'нар
@@ -32,7 +31,7 @@
 ## Параллель текстлар
 * [ИПСАН параллель корпус дәйтәсары](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/) туплаган дәйтәсары.
 * [Айгиз Кунафин дәйтәсары](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты Айгиз Кунафин туплаган дәйтәсар.
-* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/results/tt&en/corpus-result-table), [tt-ru](https://opus.nlpl.eu/results/tt&ru/corpus-result-table)) - Ачык параллель текстлар җыентыгы(⚠ тазартырга зарур).
+* The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/corpora-search/tt&en), [tt-ru](https://opus.nlpl.eu/corpora-search/tt&ru)) - Ачык параллель текстлар җыентыгы(⚠ тазартырга зарур).
 * [Apertium тел кушлары](https://github.com/apertium/apertium-tat-rus) - [Apertium](https://www.apertium.org/index.rus.html) проектының тәрҗемә өчен кулланган тел кушлары.
 
 
@@ -101,7 +100,3 @@
 ## Миллиләштерү әсбаплары
 * [Tatar Style Guide](https://download.microsoft.com/download/4/8/2/4825b7b4-fda5-4f66-b475-0cc6a6b4e13f/tat-rus-styleguide.pdf) - Microsoft кулланган рәсми миллиләштерү әсбабы.
 * [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Microsoft продуктларында кулланган рәсми тәрҗемә.
-
-
-## Браузер плагиннары
-* [tatarspeech](https://tatarspeech.dtc.tatar/)(beta) - реаль вакытта Youtube видеоларын татарчага тәрҗемә. 
