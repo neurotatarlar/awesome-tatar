@@ -32,6 +32,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 * [IPSAN's parallel corpus dataset](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - Dataset collected by [Institute of Applied Semiotics](https://www.antat.ru/en/).
 * [Aygiz Kunafin's dataset](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Dataset collected by language enthusiast Aygiz Kunafin.
 * The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/corpora-search/tt&en), [tt-ru](https://opus.nlpl.eu/corpora-search/tt&ru)) - miscellaneous parallel corpora (⚠ it requires data cleaning and preparation).
+* [BOUQuET (`tat_Cyrl`)](https://huggingface.co/datasets/facebook/bouquet/viewer/tat_Cyrl) - Tatar (Cyrillic) slice of Meta's multilingual, multi-way parallel MT evaluation dataset (gated access).
 * [Apertium's language pair](https://github.com/apertium/apertium-tat-rus) - an [Apertium](https://www.apertium.org/index.rus.html) language pair for translating from Tatar to Russian (in incubator), [Kazakh - Tatar pair](https://www.apertium.org/index.eng.html#?dir=tat-kaz&q=) (production).
 
 
@@ -42,7 +43,7 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 
 ## Audio datasets
-* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmj8u3pxt00shnxxbtpac4n4m) - ASR dataset powered by volunteer contributors.
+* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmn2cwsv501dbo1071091borr) - ASR dataset powered by volunteer contributors.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) ASR dataset
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) TTS dataset
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) Speech Commands Dataset dataset

@@ -32,6 +32,7 @@
 * [ИПСАН параллель корпус дәйтәсары](https://huggingface.co/datasets/IPSAN/tatar_translation_dataset) - [ИПСАН](https://www.antat.ru/tt/) туплаган дәйтәсары.
 * [Айгиз Кунафин дәйтәсары](https://huggingface.co/datasets/AigizK/tatar-russian-parallel-corpora) - Тел энтузиасты Айгиз Кунафин туплаган дәйтәсар.
 * The Open Parallel Corpus ([tt-en](https://opus.nlpl.eu/corpora-search/tt&en), [tt-ru](https://opus.nlpl.eu/corpora-search/tt&ru)) - Ачык параллель текстлар җыентыгы(⚠ тазартырга зарур).
+* [BOUQuET (`tat_Cyrl`)](https://huggingface.co/datasets/facebook/bouquet/viewer/tat_Cyrl) - Meta'ның күптелле, күпьяклы параллель машина тәрҗемәсен бәяләү дәйтәсарының татар өлеше (gated иреш).
 * [Apertium тел кушлары](https://github.com/apertium/apertium-tat-rus) - [Apertium](https://www.apertium.org/index.rus.html) проектының тәрҗемә өчен кулланган тел кушлары.
 
 
@@ -42,7 +43,7 @@
 
 
 ## Аудио дәйтәсарлары
-* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmj8u3pxt00shnxxbtpac4n4m) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
+* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmn2cwsv501dbo1071091borr) - ихтияриләр туплаган ачык тавыш дата җыелмалары.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) ASR дәйтәсар.
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) TTS дәйтәсар.
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI'ның](https://issai.nu.edu.kz/issai-datasets/) Тавыш боерыклары белән дәйтәсар.
@@ -50,7 +51,7 @@
 
 ## Текст дәйтәсарлары
 * [SART](https://github.com/tat-nlp/SART) - Татар телендә ошашлык, аналогия һәм якынлык дата җыелмалары.
-*  [TUMLU](https://github.com/ceferisbarov/TUMLU) - Төрки телләр өчен бердәм һәм табигый телне аңлау бенчмаркы..
+* [TUMLU](https://github.com/ceferisbarov/TUMLU) - Төрки телләр өчен бердәм һәм табигый телне аңлау бенчмаркы.
 * [TextDetox](https://huggingface.co/datasets/textdetox/multilingual_toxicity_dataset) - Татар телне аңлаучы күптелле токсиклык ачыклау дәйтәсары.
 * [BRIGHTER](https://huggingface.co/datasets/brighter-dataset/BRIGHTER-emotion-categories) - BRIGHTER Emotion Categories — 28 телдә кеше билгеләгән алты эмоцияне эченә алган күптелле дәйтәсар.
 * [UD_Tatar-NMCTT](https://github.com/UniversalDependencies/UD_Tatar-NMCTT) — Татар теле өчен Universal Dependencies синтаксик агач банкы. Леммалар, сүз төркемнәре, морфологик үзенчәлекләр һәм бәйләнешләр кулдан билгеләнгән. Шулай ук code-switching(татар ↔ рус) билгеләмәләре дә бар.
@@ -59,7 +60,7 @@
 ## Кирил-латин имлә конверторлары
 * [baltoslav.eu](https://baltoslav.eu/lat/index.php)
 * [speak.tatar](https://speak.tatar/en/lang/converter/tat/latin/cyrillic/)
-* [yusuke1997.com](https://yusuke1997.com/tatar) ([чыганак](https://github.com/yusuke1997/translit_tt))
+* [yusuke1997.com](https://yusuke1997.com/tatar) ([чыганак1](https://github.com/yusuke1997/tatar_transliteration) һәм [чыганак2](https://github.com/yusuke1997/translit_tt))
 * [COPIUS](https://www.copius.eu/trtr.php?lang=tat)
 
 
