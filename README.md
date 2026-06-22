@@ -43,7 +43,8 @@ A curated list of awesome libraries, resources, services and datasets for Tatar 
 
 
 ## Audio datasets
-* [Mozilla common voice](https://datacollective.mozillafoundation.org/datasets/cmn2cwsv501dbo1071091borr) - ASR dataset powered by volunteer contributors.
+* Mozilla Common Voice [Scripted Speech](https://mozilladatacollective.com/datasets/cmqiny0vn00ygnr07ye9hvi5p) - Read-speech ASR dataset powered by volunteer contributors.
+* Mozilla Common Voice [Spontaneous Speech](https://mozilladatacollective.com/datasets/cmqi24eta004co507icej3t0b) - Spontaneous-speech ASR dataset with answers to prompts/questions.
 * [TatSC](https://github.com/IS2AI/Soyle?tab=readme-ov-file#available-languages) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) ASR dataset
 * [TatarTTS](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) TTS dataset
 * [TatarSCR](https://huggingface.co/datasets/issai/TatarTTS) - [ISSAI's](https://issai.nu.edu.kz/issai-datasets/) Speech Commands Dataset dataset
