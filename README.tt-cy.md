@@ -24,6 +24,7 @@
 
 
 ## LLM'нар
+* [TATlit](https://huggingface.co/yasalma/TATlit) - Әдәби татар телендә (Кирил имлә) өйрәтелгән, 478 млн параметрлы LLM; инструкцияләргә өйрәтелмәгән.
 * [tweety-tatar-base](https://huggingface.co/Tweeties/tweety-tatar-base-7b-2024-v1) - Mistral-7B-Instruct-v0.2 моделленнан MistralAI белән өйрәтелгән татар телле LLM
 * [mGPT-1.3B-tatar](https://huggingface.co/ai-forever/mGPT-1.3B-tatar) - mGPT-XL (1.3B) моделеннан чагылган модель. Иң башта 25 тел гаилә булган 61 телдә Wikipedia һәм C4 corpus аша Sber AI ойрәткән модель.  
 
